@@ -42,7 +42,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 ![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
 
 #### 📈 Analytics & Data Infrastructure
-![Amplitude](https://img.shields.io/badge/Amplitude-1E0A3C?style=for-the-badge&logo=amplitude&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1C0A2C?style=for-the-badge&logo=amplitude&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Mode Analytics](https://img.shields.io/badge/MODE-3A2F2D?style=for-the-badge&logo=databricks&logoColor=white)
@@ -59,14 +59,14 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 ![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Runneth](https://img.shields.io/badge/Runneth-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Photoroom](https://img.shields.io/badge/Photoroom-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Photoroom](https://img.shields.io/badge/Photoroom-1D0A3C?style=for-the-badge&logo=openai&logoColor=white)
 
 #### 🤝 Creator, Affiliate & Partner Platforms
 ![Impact.com](https://img.shields.io/badge/Impact.com-111827?style=for-the-badge&logo=impact&logoColor=white)
 ![LTK](https://img.shields.io/badge/LTK%20%2F%20rewardStyle-E11D48?style=for-the-badge&logo=instagram&logoColor=white)
 ![TikTok Creator Marketplace](https://img.shields.io/badge/TikTok%20Creator%20Marketplace-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![RedCircle](https://img.shields.io/badge/RedCircle%20Podcasts-E53E3E?style=for-the-badge&logo=podcast&logoColor=white)
-![VOX](https://img.shields.io/badge/VOX:%20Podcast,%20Native%20&%20Athena-E53E3E?style=for-the-badge&logo=podcast&logoColor=white)
+![VOX](https://img.shields.io/badge/VOX:%20Podcast,%20Native%20&%20Athena-74AA9C?style=for-the-badge&logo=podcast&logoColor=white)
 
 #### 🏛️ Agency & Vendor Ecosystem
 > **POC for Strategic Partners:** The Outloud Group • Tatari • The Social Savannah • ShyftUp
