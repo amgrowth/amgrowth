@@ -1,16 +1,16 @@
 # Hi, I'm Ashleigh!
 
-### Senior Growth & Integrated Marketing Leader | AI-Forward Operator
+### Senior Growth Marketing & Performance Branding Leader | AI-Forward Operator
 
-I bridge brand storytelling with data rigor to scale B2C subscription, D2C, and CPG brands. Operating at the intersection of **full-funnel acquisition, CRO, lifecycle automation, and AI-first marketing systems**, I specialize in turning complex consumer data into high-converting campaigns and repeatable growth playbooks.
+I bridge brand storytelling with data-driven optimization to scale B2C subscription, D2C, and CPG brands. Operating at the intersection of **full-funnel acquisition, CRO, and AI-first marketing systems**, I specialize in turning complex data into high-converting campaigns and repeatable growth playbooks.
 
 ---
 
-### 🚀 About Me & What I'm Up To
+### 🚀 A Bit About Me
 
 - 🔭 **Currently Building:** A portfolio of AI prompt workflows & automation systems to streamline creative testing, persona research, and cross-channel learning agendas.
 - 💼 **Track Record:** 8+ years of experience managing **$16M–$20M+ annual budgets** across operating brands (*Misfits Market*, *Book of the Month*) and agency environments (*WITHIN*).
-- 🧠 **Operator Philosophy:** Leader-doer mindset—equally comfortable setting 12-month GTM roadmaps, designing custom landing page architectures, and diving into media accounts.
+- 🧠 **Operator Philosophy:** Hands-on leader—equally comfortable writing effective copy, architecting roadmaps, conducting audience research, designing custom landing page architectures, and diving into media accounts.
 - ⚡ **Fun Fact:** I attended boarding school on a ranch in Arizona! 🌵
 
 ---
@@ -19,27 +19,31 @@ I bridge brand storytelling with data rigor to scale B2C subscription, D2C, and 
 
 | Area | Focus & Capabilities |
 | :--- | :--- |
-| **Growth & Acquisition** | Multi-channel media management ($16M–$20M+), Search (SEM/PLA), Paid Social (Meta, TikTok, Pinterest), CTV, Direct Mail, Affiliate |
-| **CRO & Funnel Optimization** | Landing page architecture, split-test tooling, lifecycle sequencing (Email, SMS, Push), LTV/CAC optimization |
-| **Strategy & Playbooks** | Persona-based messaging, GTM product launches, cross-functional squad leadership, agency/vendor management |
-| **AI & Automation** | Generative search strategy (AEO/GEO), automated research workflows, AI-assisted copy & testing design |
+| **Growth & Acquisition** | Multi-channel media management ($16M–$20M+), Search (SEM/PLA/PMAX/YT), Paid Social (Meta, TikTok, Pinterest), Linear TV & CTV, Podcasts, Influencer |
+| **CRO & Funnel Optimization** | Landing page development, split-test tooling, LTV:CAC optimization |
+| **Strategy & Playbooks** | Persona-based messaging, cross-functional leadership, brand awareness activations, agency/vendor management |
+| **AI & Automation** | Generative search strategy (AEO/GEO/SEO/Affiliate), automated workflows, AI-assisted copy & testing design |
 
 ---
 
 ### 🛠️ Languages, Tools & Tech Stack
 
-#### Marketing Tech & Analytics
+#### Advertising Channels
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Meta](https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+#### Marketing Tech & Analytics
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E0A3C?style=for-the-badge&logo=amplitude&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
-#### Workflow, AI & Design Tools
+#### AI Platforms
+
+#### Workflow & Design Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,ai,ps,github" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=figma,github" alt="skills" />
   </a>
 </p>
 
