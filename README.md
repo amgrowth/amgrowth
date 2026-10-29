@@ -26,9 +26,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 
 ---
 
-### 🛠️ Languages, Tools & Tech Stack
-
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Martech Stack
 
 #### 🚀 Paid Channels
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
@@ -74,7 +72,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 #### 🎨 Creative & Workflow Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,notion,asana,instagram,md,wordpress&theme=light" alt="creative and workflow tools" />
+    <img src="https://skillicons.dev/icons?i=figma,md,wordpress,notion,instagram&theme=light" alt="creative and workflow tools" />
   </a>
 </p>
 
