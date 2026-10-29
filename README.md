@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ashleigh Genus
+# Hi, I'm Ashleigh!
 
 ### Senior Growth & Integrated Marketing Leader | AI-Forward Operator
 
