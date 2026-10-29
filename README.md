@@ -42,7 +42,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 ![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
 
 #### 📈 Analytics & Data Infrastructure
-![Amplitude](https://img.shields.io/badge/Amplitude-1C0A2C?style=for-the-badge&logo=amplitude&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1A0A2A?style=for-the-badge&logo=amplitude&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Mode Analytics](https://img.shields.io/badge/MODE-3A2F2D?style=for-the-badge&logo=databricks&logoColor=white)
@@ -61,7 +61,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 ![Gemini](https://img.shields.io/badge/Gemini-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Photoroom](https://img.shields.io/badge/Photoroom-1D0A3C?style=for-the-badge&logo=openai&logoColor=white)
 
-#### 🤝 Creator, Affiliate & Partner Platforms
+#### 🤝 Affiliate, Creator Platforms & Partners
 ![Impact.com](https://img.shields.io/badge/Impact.com-111827?style=for-the-badge&logo=impact&logoColor=white)
 ![LTK](https://img.shields.io/badge/LTK%20%2F%20rewardStyle-E11D48?style=for-the-badge&logo=instagram&logoColor=white)
 ![TikTok Creator Marketplace](https://img.shields.io/badge/TikTok%20Creator%20Marketplace-000000?style=for-the-badge&logo=tiktok&logoColor=white)
@@ -74,7 +74,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 #### 🎨 Creative & Workflow Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva,notion,asana" alt="creative and workflow tools" />
+    <img src="https://skillicons.dev/icons?i=figma,notion,asana" alt="creative and workflow tools" />
   </a>
 </p>
 
