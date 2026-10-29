@@ -8,7 +8,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 
 ### ⚡ A Bit About Me
 
-- **Currently Building:** A portfolio of AI prompt workflows & automation systems to streamline creative testing, persona research, and cross-channel learning agendas.
+- **Currently Building:** A portfolio of prompt workflows & automation systems to streamline creative testing, persona research, and cross-channel learning agendas.
 - **Track Record:** 8+ years of experience managing **$16M–$20M+ annual budgets** across operating brands (*Misfits Market*, *Book of the Month*) and agency environments (*WITHIN*).
 - **Operator Philosophy:** Hands-on leader—equally comfortable writing effective copy, architecting roadmaps, conducting audience research, designing custom landing page architectures, and diving into media accounts.
 - **Fun Fact:** I attended boarding school on a ranch in Arizona! 🌵
