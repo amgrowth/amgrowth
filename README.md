@@ -1,6 +1,6 @@
 # Hi, I'm Ashleigh!
 
-### Senior Growth Marketing & Performance Branding Leader | AI-Forward Operator
+### Senior Growth Marketing & Performance Branding Leader
 
 I bridge brand storytelling with data-driven optimization to scale B2C subscription, D2C, and CPG brands. Operating at the intersection of **full-funnel acquisition, CRO, and AI-first marketing systems**, I specialize in turning complex data into high-converting campaigns and repeatable growth playbooks.
 
