@@ -54,7 +54,7 @@ I bridge brand storytelling with data-driven optimization to scale B2C subscript
 ![HDYHAU Surveys](https://img.shields.io/badge/HDYHAU%20Surveys-059669?style=for-the-badge&logo=surveymonkey&logoColor=white)
 
 #### 🧠 AI Platforms & Prompt Engineering
-![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Runneth](https://img.shields.io/badge/Runneth-6366F1?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Photoroom](https://img.shields.io/badge/Photoroom-1D0A3C?style=for-the-badge&logo=openai&logoColor=white)
